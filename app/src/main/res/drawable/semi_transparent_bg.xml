@@ -1,0 +1,5 @@
+<!-- res/drawable/semi_transparent_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#80000000"/> <!-- 50%透明度的黑色背景 -->
+    <corners android:radius="10dp"/>
+</shape>
